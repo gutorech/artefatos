@@ -1,0 +1,19 @@
+Sistema para donos/professores de academias de karatê controlarem o progresso de seus alunos, avaliarem e verificarem se um aluno pode subir de faixa.
+
+No MVP consta:
+- Cadastro de alunos
+- Visualização de alunos
+- Barra de progresso dos alunos
+- Avaliação de alunos conforme cada aula
+
+
+Ferramentas de comunicação e organização:
+Github - Versionamento
+
+Ferramentas de desenvolvimento:
+VS Code
+
+Tecnologias
+HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
+
+
