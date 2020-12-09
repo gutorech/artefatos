@@ -1,0 +1,7 @@
+CREATE TABLE `aluno` (
+	  `idAluno` int(11) NOT NULL AUTO_INCREMENT,
+    `nome` varchar(45) DEFAULT NOT NULL,
+    `faixaAtual` varchar(45) DEFAULT NOT NULL,   
+	  `progresso` int(11) DEFAULT NULL, 
+    PRIMARY KEY (`idAluno`)
+) 
